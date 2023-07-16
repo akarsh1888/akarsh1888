@@ -8,11 +8,10 @@
 <a href="https://twitter.com/Akarsh">
   <img align="left" alt="Akarsh Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/Akarsh/">
-  <img align="left" alt="Akarsh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/akarsh1888/">
+  <img align="left" alt="Akarsh's LinkedIN" width="22px" src="https://icons8.com/icon/13930/linkedin" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
