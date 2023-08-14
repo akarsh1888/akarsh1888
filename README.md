@@ -21,7 +21,7 @@ I'm a Software Engineer with over 4 years of experience, specializing in Full St
 ### 🚀 Projects
 
 - **Solutions Transition:** Successfully migrated MPage solutions from IE to Chromium-based Edge, achieving an 85% rendering time reduction and 33% lower CPU utilization.
-- **Automated CI/CD Pipeline:** Developed and managed a Jenkins pipeline to automate build, test, and deployment processes, achieving a remarkable 40% reduction in deployment time.
+- **Client-Side Architecture Development** : Led client-side architecture advancement, integrating payment gateway and messaging APIs with ReactJS, Material UI, Redux, and RESTful APIs, achieving 40% faster payment processing.
 - **ListCrawler:** Web scraping tool utilizing Beautiful Soup Python library, automated data extraction with React and Django, and successfully deployed on Heroku.
 
 ### 📊 Weekly Development Stats
