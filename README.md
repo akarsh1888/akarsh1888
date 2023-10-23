@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a Software Engineer with over 4 years of experience, specializing in Full Stack Web Development. I am passionate about crafting elegant solutions to complex problems and delivering exceptional user experiences.
+I'm a Software Engineer, specializing in Full Stack Web Development. I am passionate about crafting elegant solutions to complex problems and delivering exceptional user experiences.
 
 ### 🛠️ Technologies & Tools
 
